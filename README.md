@@ -12,5 +12,5 @@ Contents Of Algorithms
     Naive Bayes Classifier
 
 
-    Note : This repo is not complete, I will more Algorithms in this repo.
+    Note : This repo is not complete, I will updated more Algorithms in this repo.
     
